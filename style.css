@@ -43,6 +43,7 @@ h2{
 
 #password {
     height: 20px;
+    text-indent: 3px;
 }
 
 #mostrarSenha {
