@@ -46,7 +46,7 @@ This repository is strictly for educational purposes and is made available for a
 
 <br/>
 
-### Possible Errors
+## Possible Errors
 
 While accessing the project, it's important to note that certain errors may occur. These errors could be related to compatibility issues with specific browsers, variations in browser settings, or potential conflicts with other scripts on the web page. Users are advised to refer to the documentation and address any issues encountered with due diligence.
 
