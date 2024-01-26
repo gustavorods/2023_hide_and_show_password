@@ -34,10 +34,21 @@ Throughout the development process, the following programming and markup languag
 
 <br/>
 
+## Link
+
+The project can be accessed using the following link: [Click here](https://gustavorods.github.io/2023_hide_and_show_password/)
+
+<br/>
+
 ## Notices
 
 This repository is strictly for educational purposes and is made available for anyone interested to use, study, and test the implementation of the show/hide password functionality on web pages. We encourage responsible use of this code for learning and experimentation, always respecting ethical and legal principles. Any misuse, unauthorized commercialization, or violation of rights is expressly discouraged.
 
+<br/>
+
+### Possible Errors
+
+While accessing the project, it's important to note that certain errors may occur. These errors could be related to compatibility issues with specific browsers, variations in browser settings, or potential conflicts with other scripts on the web page. Users are advised to refer to the documentation and address any issues encountered with due diligence.
 
 
 
