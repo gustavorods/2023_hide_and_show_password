@@ -6,6 +6,12 @@ This project aims to implement a common functionality in web applications that a
 
 <br/>
 
+## Purpose
+
+The purpose of this project is to explore and understand the implementation of this function in web code, as well as to allow practical testing of its operation on the web.
+
+<br/>
+
 ## Functionality
 
 ### What is it?
@@ -15,12 +21,6 @@ It is a feature present on almost every website, enabling users to view or hide 
 ### How does it work?
 
 Within the page, the user types their password (or any desired text) and has the option to display or hide the password using a designated button for this function. Usually, this option is represented by an icon rather than text.
-
-<br/>
-
-## Purpose
-
-The purpose of this project is to explore and understand the implementation of this function in web code, as well as to allow practical testing of its operation on the web.
 
 <br/>
 
